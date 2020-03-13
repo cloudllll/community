@@ -8,7 +8,6 @@ import okhttp3.Response;
 import org.springframework.stereotype.Component;
 import wintervocationmajiangcommunity.dto.AccessTokenDTO;
 import wintervocationmajiangcommunity.dto.GithubUser;
-
 import java.io.IOException;
 
 @Component

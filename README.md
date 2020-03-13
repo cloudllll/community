@@ -2,3 +2,4 @@
 ## 资料
 
 ## 工具
+th:text="${session.user.getName()}
